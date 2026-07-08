@@ -26,10 +26,14 @@
 ## Course Requirements
 ## Modules
 
-The course is divided into nine (9) modules. Each module has a PDF document and a video recording of the tutorials including the practicals as a YouTube link.
+The course is divided into **nine (9) modules**. Each module has a **PDF document** and a **video recording** of the course, including the **practicals** as a **YouTube link**.
+
+A **capstone project** provides the opportunity to integrate all the knowledge and skills in all the modules. It will not be directly related to any single idea in the different modules; rather, it will be a complex real-world problem which will require you to apply your understanding of many concepts and practical skills from the different modules
 
 ## Basic Linux Module
-All supercomputing clusters today runs on **Linux servers**. Basic understanding of bash scripting is essential for a successful journey in computational modelling. Provides understanding of **File structures, basic bash commands, create and copy files, rename files, search for files, wildcards, remote connections**. Access the course **video here** and the **practical video here**.
+All supercomputing clusters today runs on **Linux servers**. Basic understanding of bash scripting is essential for a successful journey in computational modelling. This module provides understanding of **File structures, basic bash commands, create and copy files, rename files, search for files, wildcards, remote connections**. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Basic_Linux/Basic_Linux_for_life_sciences.pdf)**
 
 ## Basic Python Module
 ## Chemical Representantion and File Formats Module
