@@ -24,6 +24,9 @@
 
 
 ## Course Requirements
+
+This is a basic course intended for undergraduate and early-career postgraduate students. As such, the learner is expected to have **basic understanding in Biology and chemistry**. In addition, the details of the hardware, and software requirements including outcomes are available in the **[requirements file](https://anaconda.org/)**
+
 ## Modules
 
 The course is divided into **nine (9) modules**. Each module has a **PDF document** and a **video recording** of the course, including the **practicals** as a **YouTube link**.
@@ -37,6 +40,11 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 
 ## Basic Python Module
 ## Chemical Representantion and File Formats Module
+
+The abstractions of chemical structures requires a way to represent them in a language suitable for computation and modelling. The user will understand basic representations of chemical structures and biomolecules; how to enumerate R groups and convert between structure file types using OpenBabel and RDkit. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Chem_Rep_File_formats/Chemical_Structure_Representation.pdf)**
+
 ## Protein and Chemical Databases Module
 ## Protein Modelling and Structure Prediction Module
 ## Virtual Screening I Module
