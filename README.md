@@ -25,7 +25,12 @@
 
 ## Course Requirements
 ## Modules
+
+The course is divided into nine (9) modules. Each module has a PDF document and a video recording of the tutorials including the practicals as a YouTube link.
+
 ## Basic Linux Module
+All supercomputing clusters today runs on **Linux servers**. Basic understanding of bash scripting is essential for a successful journey in computational modelling. Provides understanding of **File structures, basic bash commands, create and copy files, rename files, search for files, wildcards, remote connections**. Access the course **video here** and the **practical video here**.
+
 ## Basic Python Module
 ## Chemical Representantion and File Formats Module
 ## Protein and Chemical Databases Module
