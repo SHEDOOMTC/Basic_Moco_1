@@ -3,7 +3,9 @@
 </p>
 
 ## **Course Overview**
-**Basic Moco I** is an effort to summarize the knowledge, tools and processes we have employed at the **RESLAR Labs** in the past 5 years. It builds the understanding of molecular modelling for undergraduate and early-career postgraduate students.
+**Basic Moco I** is an effort to summarize the knowledge, tools and processes we have employed at the **[RESLAR Labs](https://www.linkedin.com/company/reslar-labs)** in the past 5 years. It builds the understanding of molecular modelling for undergraduate and early-career postgraduate students. Our goal is simple: expose the learner to the basics and spur them to go ahead and learn more. A sound foundation in molecular modelling will set the stage for the upward climb. We however note that this course is far from being exhaustive; rather, it is an invitation to the endless world of science, computation, modelling and drug discovery. 
+
+A very special thanks to **[RESLAR Labs](https://www.linkedin.com/company/reslar-labs)**, **[Pharm. Munachiso Elekwa](https://github.com/Munaelekwa), [Stephen Nnemolisa](https://github.com/nnemolisastephen), [Dr. Wande M. Oluyemi](https://scholar.google.com/citations?user=puxjf8wAAAAJ&hl=en) and [Dr. Adewumi T. Adeniyi](https://scholar.google.com/citations?user=upkvyLEAAAAJ&hl=en)** for their oversights, contributions and review. 
 
 
 ## Table of Contents  
