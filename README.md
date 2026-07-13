@@ -54,11 +54,40 @@ Databases are central to research on macromolecules and small molecules. They pr
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Protein_Chem_Databases/Databases_Protein_Small_Molecules.pdf)** while the associated jupyter notebook is also available **[here]()**
 
 ## Protein Modelling and Structure Prediction Module
+
+Prediction of the 3D strucutures of proteins and biomolecules have advanced today, thanks to the breakthrough by AlphaFold. Behind these ingenious advancement lies robust a knowledge on sequence alignment, filling missing residues in proteins, mutations in proteins, and homology modelling. The users understanding of these basic concepts will further solidy their progress in the world of protein modelling and engineering. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Protein_Modelling_Prediction/Protein_Modelling_and_structure_prediction.pdf)** 
+
 ## Virtual Screening I Module
+
+Virtual Screening helps is a great tool in prioritization of compounds before experimental testing. The user is exposed to various layers of virtual screening, from descriptor-based, pharmacophore-based, fragment-based, to scaffold hopping, including similiarity search and fingerprints etc. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_I/Virtual_Screening_I.pdf)** while the associated jupyter notebook is also available **[here]()**
+
 ## Virtual Screening II Module
+ Molecular docking is built on the idea that the strenght of interaction of a ligands at the active site of a protein can be quantified and ranked. In this module, the user is exposed to the theory behind molecular docking; pose search, scoring functions and implementations, ranking and predictive power assessment. Then a hands-on session on how to perform molecular docking with Vina from the command line and GUI is demonstrated. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_II/Virtual_Screening_II.pdf)** while the the code for pose reproduction is also available **[here](https://github.com/SHEDOOMTC/Docking_Utilities.git)**
+
 ## Virtual Screening III Module
+
+Glide docking module,  by Schrodinger, is a leader in the small molecule drug discovery. Here the user will be exposed to the functionalities of glide tool and how to use it for molecular docking and virtual screening. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+
+The PDF copy of the module is **[here]()** 
+
 ## Molecular Visualizations Module
+
+From protein and ligand preparations, docking validation, pose reproduction, to interactions profilling, molecular visualization is central to molecular modeeling. Popular visualization tools such **[ChimeraX](https://www.cgl.ucsf.edu/chimerax/)**, **¨[Pymol](https://www.pymol.org/)**, VMD and **[Discovery studio](https://www.3ds.com/products/biovia/discovery-studio)** have stood out over the years. Here we will demonstrate the use cases for ChimeraX, Pymol, and Discovery Studio while the user is encouraged to explore the use of VMD **[here](https://www.ks.uiuc.edu/Research/vmd/current/docs.html#tutorials)** Access the **[course video and practicals here](https://youtube.in)**
+
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Molecular_Visualization/Molecular_and_Docking_Visualization.pdf)**
+
 ## Capstone Project
+
+The **capstone project** provides the opportunity to integrate all the knowledge and skills in all the modules. It will not be directly related to any single idea in the different modules; rather, it will be a complex real-world problem which will require you to apply your understanding of many concepts and practical skills from the different modules.
+
+This will be organized around three areas in **Google Collab Notebook**. The notebooks will consist of **solved** and **unsolved** versions. The student will only have access to the unsolved one. On completion, the student can mail his/her solved version to Email and then receive a copy of the solved one.
+
 ## References
 ## Contact Us
 
