@@ -89,6 +89,13 @@ The **capstone project** provides the opportunity to integrate all the knowledge
 This will be organized around three areas in **Google Collab Notebook**. The notebooks will consist of **solved** and **unsolved** versions. The student will only have access to the unsolved one. On completion, the student can mail his/her solved version to Email and then receive a copy of the solved one.
 
 ## References
+
+The list of references is very long and mostly provided at the end of the pdf copy of each module. However, we still present a few important references.
+
+The tutorials by Vina
+
+The codes from Pat Walters
+
 ## Contact Us
 
 
