@@ -66,7 +66,7 @@ Virtual Screening helps is a great tool in prioritization of compounds before ex
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_I/Virtual_Screening_I.pdf)** while the associated jupyter notebook is also available **[here]()**
 
 ## Virtual Screening II Module
- Molecular docking is built on the idea that the strenght of interaction of a ligands at the active site of a protein can be quantified and ranked. In this module, the user is exposed to the theory behind molecular docking; pose search, scoring functions and implementations, ranking and predictive power assessment. Then a hands-on session on how to perform molecular docking with Vina from the command line and GUI is demonstrated. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+ Molecular docking is built on the idea that the strenght of interaction of a ligands at the active site of a protein can be quantified and ranked. In this module, the user is exposed to the theory behind molecular docking; pose search, scoring functions and implementations, ranking and predictive power assessment. Then a hands-on session on how to perform molecular docking with **[Vina](https://vina.scripps.edu/)** from the command line and GUI is demonstrated. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_II/Virtual_Screening_II.pdf)** while the the code for pose reproduction is also available **[here](https://github.com/SHEDOOMTC/Docking_Utilities.git)**
 
