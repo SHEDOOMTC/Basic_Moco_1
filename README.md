@@ -86,16 +86,12 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 
 The **capstone project** provides the opportunity to integrate all the knowledge and skills in all the modules. It will not be directly related to any single idea in the different modules; rather, it will be a complex real-world problem which will require you to apply your understanding of many concepts and practical skills from the different modules.
 
-This will be organized around three areas in **Google Collab Notebook**. The notebooks will consist of **solved** and **unsolved** versions. The student will only have access to the unsolved one. On completion, the student can mail his/her solved version to Email and then receive a copy of the solved one.
+This will be organized around three areas in **Google Collab Notebook**. The notebooks will consist of steps and instructions on the sections that require the students input.
 
 ## References
 
-The list of references is very long and mostly provided at the end of the pdf copy of each module. However, we still present a few important references.
-
-The tutorials by Vina
-
-The codes from Pat Walters
+The list of references is very long and mostly provided at the end of the pdf copy of each module.
 
 ## Contact Us
 
-
+For questions or issues, please contact us @ [Reslar Labs](reslarscience@gmail.com)  **&copy; 2026**, or [Dr. Oluyemi](oluyemiwm@abuad.edu.ng) or [Shadrach Eze](shadrachchinecheremeze@gmail.com).
