@@ -27,7 +27,7 @@ A very special thanks to **[RESLAR Labs](https://www.linkedin.com/company/reslar
 
 ## Course Requirements
 
-This is a basic course intended for undergraduate and early-career postgraduate students. As such, the learner is expected to have **basic understanding in Biology and chemistry**. In addition, the details of the hardware, and software requirements including outcomes are available in the **[requirements file](https://anaconda.org/)**
+This is a basic course intended for undergraduate and early-career postgraduate students. As such, the learner is expected to have **basic understanding in Biology and chemistry**. In addition, the details of the hardware, and software requirements including outcomes are available in the **[requirements file](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/requirements/Basic_MoCo_I_requirements.pdf)**
 
 ## Modules
 
@@ -41,17 +41,21 @@ All supercomputing clusters today runs on **Linux servers**. Basic understanding
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Basic_Linux/Basic_Linux_for_life_sciences.pdf)**
 
 ## Basic Python Module
+Python is the king of languages for programming and molecular modelling. A computational Chemist must have a good grasp of it and applications in chemoinformatics workflows. Here, we introduce basic python concepts: data types, lists, functions, how to load and explore scientific datasets, perform basic data cleaning, create simple visualisations, and build a foundation for data science and machine learning. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Basic_Linux/Basic_Linux_for_life_sciences.pdf)**
+
 ## Chemical Representantion and File Formats Module
 
 The abstractions of chemical structures requires a way to represent them in a language suitable for computation and modelling. The user will understand basic representations of chemical structures and biomolecules; how to enumerate R groups and convert between structure file types using OpenBabel and RDkit. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
-The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Chem_Rep_File_formats/Chemical_Structure_Representation.pdf)** while the associated jupyter notebook is also available **[here]()**
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Chem_Rep_File_formats/Chemical_Structure_Representation.pdf)** while the associated jupyter notebook is also available **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Chem_Rep_File_formats/Chemical_Representations_Conversion.ipynb)**
 
 
 ## Protein and Chemical Databases Module
 Databases are central to research on macromolecules and small molecules. They provide robust data which serves as starting point for drug discovery and modelling projects. Learning how to navigate them and retrieve relevant information is an important skill. Here the user will get acquainted with how to navigate Uniprot, the Protein Data Bank, PubChem, Chembl to retrieve structures. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
-The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Protein_Chem_Databases/Databases_Protein_Small_Molecules.pdf)** while the associated jupyter notebook is also available **[here]()**
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Protein_Chem_Databases/Databases_Protein_Small_Molecules.pdf)** while the associated jupyter notebook is also available **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Protein_Chem_Databases/Cpd_Retrieval_Pubchem_Chembl.ipynb)**
 
 ## Protein Modelling and Structure Prediction Module
 
@@ -63,12 +67,12 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 
 Virtual Screening helps is a great tool in prioritization of compounds before experimental testing. The user is exposed to various layers of virtual screening, from descriptor-based, pharmacophore-based, fragment-based, to scaffold hopping, including similiarity search and fingerprints etc. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
-The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_I/Virtual_Screening_I.pdf)** while the associated jupyter notebook is also available **[here]()**
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_I/Virtual_Screening_I.pdf)** while the associated jupyter notebook is also available **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_I/Virtual_Screening_1.ipynb)**
 
 ## Virtual Screening II Module
  Molecular docking is built on the idea that the strenght of interaction of a ligands at the active site of a protein can be quantified and ranked. In this module, the user is exposed to the theory behind molecular docking; pose search, scoring functions and implementations, ranking and predictive power assessment. Then a hands-on session on how to perform molecular docking with **[Vina](https://vina.scripps.edu/)** from the command line and GUI is demonstrated. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
-The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_II/Virtual_Screening_II.pdf)** while the the code for pose reproduction is also available **[here](https://github.com/SHEDOOMTC/Docking_Utilities.git)**
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_II/Virtual_Screening_II.pdf)**
 
 ## Virtual Screening III Module
 
@@ -86,7 +90,9 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 
 The **capstone project** provides the opportunity to integrate all the knowledge and skills in all the modules. It will not be directly related to any single idea in the different modules; rather, it will be a complex real-world problem which will require you to apply your understanding of many concepts and practical skills from the different modules.
 
-This will be organized around three areas in **Google Collab Notebook**. The notebooks will consist of steps and instructions on the sections that require the students input.
+This will be organized around three areas in **Google Collab Notebook**. The notebooks will consist of steps and instructions on the sections that require the students input. A description of what should be expected in the capstone project is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Capstone_Project/Capstone_Project_Moco_1.pdf)**
+
+Access the Colab Notebooks for **[SubProject-A](https://colab.research.google.com/drive/1C81JhN_tECHf920gBTk7HrK7r31G__yQ?usp=sharing)** and **[Sub-Project B](https://colab.research.google.com/drive/1_WfFnxeaBNRsxuX8G8-o21PsEKatYzfg?usp=sharing)** here. 
 
 ## References
 
