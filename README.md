@@ -36,7 +36,7 @@ The course is divided into **nine (9) modules**. Each module has a **PDF documen
 A **capstone project** provides the opportunity to integrate all the knowledge and skills in all the modules. It will not be directly related to any single idea in the different modules; rather, it will be a complex real-world problem which will require you to apply your understanding of many concepts and practical skills from the different modules
 
 ## Basic Linux Module
-All supercomputing clusters today runs on **Linux servers**. Basic understanding of bash scripting is essential for a successful journey in computational modelling. This module provides understanding of **File structures, basic bash commands, create and copy files, rename files, search for files, wildcards, remote connections**. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+Almost all supercomputing clusters today runs on **Linux servers**. Basic understanding of bash scripting is essential for a successful journey in computational modelling. This module provides understanding of **File structures, basic bash commands, create and copy files, rename files, search for files, wildcards, remote connections**. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Basic_Linux/Basic_Linux_for_life_sciences.pdf)**
 
@@ -47,7 +47,7 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 
 ## Chemical Representantion and File Formats Module
 
-The abstractions of chemical structures requires a way to represent them in a language suitable for computation and modelling. The user will understand basic representations of chemical structures and biomolecules; how to enumerate R groups and convert between structure file types using OpenBabel and RDkit. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+The abstractions of chemical structures require a way to represent them in a language suitable for computation and modelling. The user will understand basic representations of chemical structures and biomolecules; how to enumerate R groups and convert between structure file types using OpenBabel and RDkit. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Chem_Rep_File_formats/Chemical_Structure_Representation.pdf)** while the associated jupyter notebook is also available **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Chem_Rep_File_formats/Chemical_Representations_Conversion.ipynb)**
 
@@ -70,7 +70,7 @@ Virtual Screening helps is a great tool in prioritization of compounds before ex
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_I/Virtual_Screening_I.pdf)** while the associated jupyter notebook is also available **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_I/Virtual_Screening_1.ipynb)**
 
 ## Virtual Screening II Module
- Molecular docking is built on the idea that the strenght of interaction of a ligands at the active site of a protein can be quantified and ranked. In this module, the user is exposed to the theory behind molecular docking; pose search, scoring functions and implementations, ranking and predictive power assessment. Then a hands-on session on how to perform molecular docking with **[Vina](https://vina.scripps.edu/)** from the command line and GUI is demonstrated. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
+ Molecular docking is built on the idea that the strength of interaction of a ligand at the active site of a protein can be quantified and ranked. In this module, the user is exposed to the theory behind molecular docking; pose search, scoring functions and implementations, ranking and predictive power assessment. Then a hands-on session on how to perform molecular docking with **[Vina](https://vina.scripps.edu/)** from the command line and GUI is demonstrated. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Virtual_Screen_II/Virtual_Screening_II.pdf)**
 
@@ -82,7 +82,7 @@ The PDF copy of the module is **[here]()**
 
 ## Molecular Visualizations Module
 
-From protein and ligand preparations, docking validation, pose reproduction, to interactions profilling, molecular visualization is central to molecular modeeling. Popular visualization tools such **[ChimeraX](https://www.cgl.ucsf.edu/chimerax/)**, **¨[Pymol](https://www.pymol.org/)**, VMD and **[Discovery studio](https://www.3ds.com/products/biovia/discovery-studio)** have stood out over the years. Here we will demonstrate the use cases for ChimeraX, Pymol, and Discovery Studio while the user is encouraged to explore the use of VMD **[here](https://www.ks.uiuc.edu/Research/vmd/current/docs.html#tutorials)** Access the **[course video and practicals here](https://youtube.in)**
+From protein and ligand preparations, docking validation, pose reproduction, to interactions profilling, molecular visualization is central to molecular modelling. Popular visualization tools such **[ChimeraX](https://www.cgl.ucsf.edu/chimerax/)**, **¨[Pymol](https://www.pymol.org/)**, VMD and **[Discovery studio](https://www.3ds.com/products/biovia/discovery-studio)** have stood out over the years. Here we will demonstrate the use cases for ChimeraX, Pymol, and Discovery Studio while the user is encouraged to explore the use of VMD **[here](https://www.ks.uiuc.edu/Research/vmd/current/docs.html#tutorials)** Access the **[course video and practicals here](https://youtube.in)**
 
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Molecular_Visualization/Molecular_and_Docking_Visualization.pdf)**
 
