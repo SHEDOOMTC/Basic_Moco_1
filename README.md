@@ -96,7 +96,7 @@ Access the Colab Notebooks for **[SubProject-A](https://colab.research.google.co
 
 ## References
 
-The list of references is very long and mostly provided at the end of the pdf copy of each module.
+The list of references is very long and mostly provided at the end of the pdf copy of each module. The series of tutorials by **[Pat Walters](https://github.com/PatWalters/practical_cheminformatics_tutorials)** is great reference tool in this regards
 
 ## Contact Us
 
