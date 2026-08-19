@@ -43,7 +43,7 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 ## Basic Python Module
 Python is the king of languages for programming and molecular modelling. A computational Chemist must have a good grasp of it and applications in chemoinformatics workflows. Here, we introduce basic python concepts: data types, lists, functions, how to load and explore scientific datasets, perform basic data cleaning, create simple visualisations, and build a foundation for data science and machine learning. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
-The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Basic_Linux/Basic_Linux_for_life_sciences.pdf)**
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/62bd3685fe1cdff3a73c51cc5dc40ab4b8d98c2e/Modules/Basic_Python/Basic_python_for_Life_Sciences.pdf)**
 
 ## Chemical Representantion and File Formats Module
 
