@@ -78,7 +78,7 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 
 Glide docking module,  by Schrodinger, is a leader in the small molecule drug discovery. Here the user will be exposed to the functionalities of glide tool and how to use it for molecular docking and virtual screening. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
-The PDF copy of the module is **[here]()** 
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/22e6afe5bd6658e6ad46cfcb8ecf3b25c7e483d5/Modules/Virtual_Screen_III/Virtual_Screening_III.pdf)** 
 
 ## Molecular Visualizations Module
 
