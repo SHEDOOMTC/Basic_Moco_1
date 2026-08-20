@@ -45,6 +45,8 @@ Python is the king of languages for programming and molecular modelling. A compu
 
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/62bd3685fe1cdff3a73c51cc5dc40ab4b8d98c2e/Modules/Basic_Python/Basic_python_for_Life_Sciences.pdf)**
 
+**Note**: Currently, the practical video of this module is not complete! We hope to complete it as soon as possible.
+
 ## Chemical Representantion and File Formats Module
 
 The abstractions of chemical structures require a way to represent them in a language suitable for computation and modelling. The user will understand basic representations of chemical structures and biomolecules; how to enumerate R groups and convert between structure file types using OpenBabel and RDkit. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
