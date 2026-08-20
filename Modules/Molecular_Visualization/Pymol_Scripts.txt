@@ -1,0 +1,29 @@
+reinitialize
+
+load 4eiy_protoss.pdb
+select ligand, chain A and resn ZMA
+
+hide all
+select env, byres (ligand around 5.0) and not ligand
+show sticks, ligand or env
+show nb_spheres, env
+set h_bond_max_angle, 40
+set h_bond_from_proton, 0
+dist hbonds, ligand or env, ligand or env, mode=2
+remove hydrogens
+
+hide labels, hbonds
+set dash_gap, 0.4
+set dash_radius, 0.05
+set dash_length, 0.3
+hide labels, hbonds
+color grey50, hbonds
+
+color gold, ele C and ligand
+color grey70, ele C and env
+
+show cartoon, chain A
+set cartoon_color, grey70
+set cartoon_transparency, 0.8
+bg white
+orient ligand
