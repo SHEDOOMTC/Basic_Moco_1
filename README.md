@@ -84,7 +84,7 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 
 From protein and ligand preparations, docking validation, pose reproduction, to interactions profilling, molecular visualization is central to molecular modelling. Popular visualization tools such **[ChimeraX](https://www.cgl.ucsf.edu/chimerax/)**, **¨[Pymol](https://www.pymol.org/)**, VMD and **[Discovery studio](https://www.3ds.com/products/biovia/discovery-studio)** have stood out over the years. Here we will demonstrate the use cases for ChimeraX, Pymol, and Discovery Studio while the user is encouraged to explore the use of VMD **[here](https://www.ks.uiuc.edu/Research/vmd/current/docs.html#tutorials)** Access the **[course video and practicals here](https://youtube.in)**
 
-The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Molecular_Visualization/Molecular_and_Docking_Visualization.pdf)**
+The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Modules/Molecular_Visualization/Molecular_and_Docking_Visualization.pdf)** The script used for the pymol visualizations is provided **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/29e2d0ba23d53bf03ddd42e70151b5406e3b6328/Modules/Molecular_Visualization/Pymol_Scripts.txt)**
 
 ## Capstone Project
 
