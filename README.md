@@ -95,7 +95,7 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 
 The **capstone project** provides the opportunity to integrate all the knowledge and skills in all the modules. It will not be directly related to any single idea in the different modules; rather, it will be a complex real-world problem which will require you to apply your understanding of many concepts and practical skills from the different modules.
 
-This will be organized around three areas in **Google Collab Notebook**. The notebooks will consist of steps and instructions on the sections that require the students input. A description of what should be expected in the capstone project is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Capstone_Project/Capstone_Project_Moco_1.pdf)**
+This will be organized around two areas in **Google Collab Notebook**. The notebooks will consist of steps and instructions on the sections that require the students input. A description of what should be expected in the capstone project is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Capstone_Project/Capstone_Project_Moco_1.pdf)**
 
 Access the Colab Notebooks for **[SubProject-A](https://colab.research.google.com/drive/1C81JhN_tECHf920gBTk7HrK7r31G__yQ?usp=sharing)** and **[Sub-Project B](https://colab.research.google.com/drive/1_WfFnxeaBNRsxuX8G8-o21PsEKatYzfg?usp=sharing)** here. 
 
