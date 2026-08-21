@@ -105,3 +105,5 @@ The list of references is very long and mostly provided at the end of the pdf co
 ## Contact Us
 
 For questions or issues, please contact us @ [Reslar Labs](reslarscience@gmail.com)  **&copy; 2026**, or [Dr. Oluyemi](oluyemiwm@abuad.edu.ng) or [Shadrach Eze](shadrachchinecheremeze@gmail.com).
+
+Follow us on our **[LinkedIn](https://www.linkedin.com/company/reslar-labs)** page and **[Youtube](https://www.youtube.com/@RESLAR-science)** channel
