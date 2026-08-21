@@ -21,7 +21,7 @@ A very special thanks to **[RESLAR Labs](https://www.linkedin.com/company/reslar
   - [Virtual Screening III Module](#virtual-screening-iii-module)
   - [Molecular Visualizations Module](#molecular-visualizations-module) 
 - [Capstone Project](#capstone-project)
-- [Frequently Asked Questions (FAQs)](#frequently-asked-questions-(FAQs))
+- [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
 - [References](#references)
 - [Contact Us](#contact-us)
 
