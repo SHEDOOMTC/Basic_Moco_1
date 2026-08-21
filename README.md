@@ -45,7 +45,7 @@ Python is the king of languages for programming and molecular modelling. A compu
 
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/62bd3685fe1cdff3a73c51cc5dc40ab4b8d98c2e/Modules/Basic_Python/Basic_python_for_Life_Sciences.pdf)**
 
-**Note**: Currently, the practical video of this module is not complete! We hope to complete it as soon as possible.
+**Note**: Currently, the practical video of this module is not complete! We hope to complete it as soon as possible. For now, we recommend that the users take the original python course developed by **[Google Colab](https://colab.research.google.com/github/data-psl/lectures2020/blob/master/notebooks/01_python_basics.ipynb)** itself.
 
 ## Chemical Representantion and File Formats Module
 
@@ -81,6 +81,8 @@ The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1
 Glide docking module,  by Schrodinger, is a leader in the small molecule drug discovery. Here the user will be exposed to the functionalities of glide tool and how to use it for molecular docking and virtual screening. Access the **[course video here](https://youtube.in)** and the **[practical video here](https://youtube.in)**. 
 
 The PDF copy of the module is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/22e6afe5bd6658e6ad46cfcb8ecf3b25c7e483d5/Modules/Virtual_Screen_III/Virtual_Screening_III.pdf)**. The CSV file of the ligands used in the demo are available **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/b56c0ee04ae2601a14b56a486798220e9eadbebb/Modules/Virtual_Screen_III/BACE_1_compounds_for_moco_series.csv)**
+
+**Note**: To obtain license to **Maestro Suite of Schrodinger**, check their website **[here](https://www.schrodinger.com/platform/products/maestro/)** or reach out to us using the contact below.
 
 ## Molecular Visualizations Module
 
