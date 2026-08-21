@@ -21,6 +21,7 @@ A very special thanks to **[RESLAR Labs](https://www.linkedin.com/company/reslar
   - [Virtual Screening III Module](#virtual-screening-iii-module)
   - [Molecular Visualizations Module](#molecular-visualizations-module) 
 - [Capstone Project](#capstone-project)
+- [Frequently Asked Questions (FAQs)](frequently-asked-questions-(FAQs))
 - [References](#references)
 - [Contact Us](#contact-us)
 
@@ -97,6 +98,9 @@ The **capstone project** provides the opportunity to integrate all the knowledge
 This will be organized around three areas in **Google Collab Notebook**. The notebooks will consist of steps and instructions on the sections that require the students input. A description of what should be expected in the capstone project is **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/main/Capstone_Project/Capstone_Project_Moco_1.pdf)**
 
 Access the Colab Notebooks for **[SubProject-A](https://colab.research.google.com/drive/1C81JhN_tECHf920gBTk7HrK7r31G__yQ?usp=sharing)** and **[Sub-Project B](https://colab.research.google.com/drive/1_WfFnxeaBNRsxuX8G8-o21PsEKatYzfg?usp=sharing)** here. 
+
+## Frequently Asked Questions (FAQs)
+We have provided a list of questions you might encounter as you interact with this course and the right responses. See **[here](https://github.com/SHEDOOMTC/Basic_Moco_1/blob/eda872476ca552b2adc574f4e7e540cd6dc6b5cf/FAQ.md)**
 
 ## References
 
