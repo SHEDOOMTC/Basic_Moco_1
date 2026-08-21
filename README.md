@@ -10,7 +10,7 @@ A very special thanks to **[RESLAR Labs](https://www.linkedin.com/company/reslar
 
 ## Table of Contents  
 - [Course Requirements](#course-requirements)
-- [Modules](modules)  
+- [Modules](#modules)  
   - [Basic Linux Module](#basic-linux-module)  
   - [Basic Python Module](#basic-python-module)  
   - [Chemical Representantion and File Formats Module](#chemical-representantion-and-file-formats-module)  
@@ -21,7 +21,7 @@ A very special thanks to **[RESLAR Labs](https://www.linkedin.com/company/reslar
   - [Virtual Screening III Module](#virtual-screening-iii-module)
   - [Molecular Visualizations Module](#molecular-visualizations-module) 
 - [Capstone Project](#capstone-project)
-- [Frequently Asked Questions (FAQs)](frequently-asked-questions-(FAQs))
+- [Frequently Asked Questions (FAQs)](#frequently-asked-questions-(FAQs))
 - [References](#references)
 - [Contact Us](#contact-us)
 
