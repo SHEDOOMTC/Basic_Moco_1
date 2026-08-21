@@ -8,9 +8,9 @@
 
 **4.** What are the software requirements for Basic Moco I? *See the [requirements.txt](https://github.com/SHEDOOMTC/Basic_Moco_1/tree/main/requirements) file*
 
-**5.** Does it have a live session? The course is structured around pre-recorded videos and materials to allow self study. However we will hold intermediate live sessions for all users. Announcements will be made on our LinkedIn page?
+**5.** Does it have a live session? The course is structured around pre-recorded videos and materials to allow self study. However we will hold intermediate live sessions for all users. Announcements will be made on our **[LinkedIn](https://www.linkedin.com/company/reslar-labs)** page.
 
-**6.** If I have a question on the course where do I refer it? You can create a comment on the GitHub Repo or send an email or ask during the live sessions?
+**6.** If I have a question on the course where do I refer it? You can create a comment on the GitHub Repo or send an email to [Reslar Labs](reslarscience@gmail.com) or ask during the live sessions?
 
 **7.** Will the course teach me everything on molecular modeling? No! *See the [requirements.txt](https://github.com/SHEDOOMTC/Basic_Moco_1/tree/main/requirements) file for more details.*
 
